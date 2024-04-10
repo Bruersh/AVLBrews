@@ -7,3 +7,6 @@ The custom dataset was created using AVLToday's "The Ultimate List of Breweries 
 - Distilleries: exclusively distill alcohol.
 - Breweries: Catch all (even if cider is brewed as well)
 Lat and Long coordinates were taken from Google Maps. 
+
+Zoning District Shapefile was taken from Asheville's Open Data portal. File was converted to GeoJson using GeoJSON.io which was also used to create an attribute for total alcohol producers in the zone (total_alc) which was used for the chloropleth map.
+
