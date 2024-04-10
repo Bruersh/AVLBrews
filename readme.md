@@ -1,6 +1,13 @@
 # Asheville Alcohol Producers Map
 
 I created this map using a custom made dataset, a Zoning District Shapefile from Asheville's Open Data portal. 
+This map is meant as a referene map to show the prevalence of alcohol producers in Asheville.
+
+Libraries Used:
+- Leaflet
+- Font Awesome
+- Jquery
+- Chroma JS
 
 The custom dataset was created using AVLToday's "The Ultimate List of Breweries in Asheville" as well as Asheville Ale Trail's list of distilleries in Asheville. These were compiled into an Excel file and given a Type based on the prominent type of alcohol production. 
 - Cideries: breweries that exclusively make Cider or none-wheat beer (Ginger beer).
